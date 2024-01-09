@@ -10,7 +10,7 @@ const links = [{
 }]
 
 useHead({
-  title: 'Nuxt UI Pro - Starter',
+  title: 'Tenno Hub',
   meta: [
     { name: 'viewport', content: 'width=device-width, initial-scale=1' }
   ],
@@ -28,15 +28,15 @@ useSeoMeta({
 </script>
 
 <template>
-  <UHeader :links="links">
+  <UHeader>
     <template #logo>
-      Nuxt UI Pro <UBadge label="Starter" variant="subtle" class="mb-0.5" />
+      Tenno Hub
+      <UBadge label="Starter" variant="subtle" class="mb-0.5" />
     </template>
 
     <template #right>
       <UColorModeButton />
 
-      <UButton to="https://github.com/nuxt-ui-pro/starter" target="_blank" icon="i-simple-icons-github" aria-label="GitHub" color="gray" variant="ghost" />
     </template>
   </UHeader>
 
