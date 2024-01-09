@@ -36,6 +36,7 @@ useSeoMeta({
 
     <template #right>
       <UColorModeButton />
+      <UButton to="https://github.com/tenno-dev/new-hub" target="_blank" icon="i-simple-icons-github" color="gray" variant="ghost" />
 
     </template>
   </UHeader>
