@@ -21,6 +21,7 @@
     "@nuxt/devtools": "^1.0.6",
     "@nuxt/eslint-config": "^0.2.0",
     "eslint": "^8.56.0",
+    "nuxt-api-party": "^1.0.0",
     "typescript": "^5.3.3",
     "vue-tsc": "^1.8.27"
   },
