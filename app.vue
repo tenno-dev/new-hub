@@ -31,7 +31,7 @@ useSeoMeta({
   <UHeader>
     <template #logo>
       Tenno Hub
-      <UBadge label="Starter" variant="subtle" class="mb-0.5" />
+      <UBadge label="Alpha" color="orange" variant="outline" class="mb-0.5" />
     </template>
 
     <template #right>
