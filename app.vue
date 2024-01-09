@@ -23,7 +23,7 @@ useHead({
 })
 
 useSeoMeta({
-  description: 'Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.'
+  description: 'Tenno Hub ..is coming back soon.'
 })
 </script>
 
